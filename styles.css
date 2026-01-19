@@ -5,6 +5,18 @@ body {
 
 h1 {
     color: red;
+    <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de Margins</title>
+</head>
+<body>
+    <div style="margin-top: 20px; margin-right: 30px; margin-bottom: 20px; margin-left: 10px; background-color: lightblue;">
+        Este div tiene márgenes: 20px arriba, 30px derecha, 20px abajo, 10px izquierda.
+    </div>
+</body>
+</html>
 }
 p {
     color: blueviolet;
@@ -36,3 +48,4 @@ nav li a:hover {
     background-color: #111; /* Efecto hover */
 }
 }
+
